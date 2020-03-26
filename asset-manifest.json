@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1e13be0.chunk.css",
-    "main.js": "/static/js/main.2c9c348d.chunk.js",
-    "main.js.map": "/static/js/main.2c9c348d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1f1f19a3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1f1f19a3.js.map",
-    "static/js/2.c4c075dc.chunk.js": "/static/js/2.c4c075dc.chunk.js",
-    "static/js/2.c4c075dc.chunk.js.map": "/static/js/2.c4c075dc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b81b550f2b696f268d3649305067734e.js": "/precache-manifest.b81b550f2b696f268d3649305067734e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f1e13be0.chunk.css.map": "/static/css/main.f1e13be0.chunk.css.map",
-    "static/js/2.c4c075dc.chunk.js.LICENSE.txt": "/static/js/2.c4c075dc.chunk.js.LICENSE.txt",
-    "static/media/heroes.png": "/static/media/heroes.1f4b5508.png",
-    "static/media/logo.svg": "/static/media/logo.7eea718b.svg"
+    "main.css": "/be-the-hero/static/css/main.f1e13be0.chunk.css",
+    "main.js": "/be-the-hero/static/js/main.641b7074.chunk.js",
+    "main.js.map": "/be-the-hero/static/js/main.641b7074.chunk.js.map",
+    "runtime-main.js": "/be-the-hero/static/js/runtime-main.f5e4c981.js",
+    "runtime-main.js.map": "/be-the-hero/static/js/runtime-main.f5e4c981.js.map",
+    "static/js/2.c4c075dc.chunk.js": "/be-the-hero/static/js/2.c4c075dc.chunk.js",
+    "static/js/2.c4c075dc.chunk.js.map": "/be-the-hero/static/js/2.c4c075dc.chunk.js.map",
+    "index.html": "/be-the-hero/index.html",
+    "precache-manifest.bb934c7a58b417fd2e31992fc7a20b1a.js": "/be-the-hero/precache-manifest.bb934c7a58b417fd2e31992fc7a20b1a.js",
+    "service-worker.js": "/be-the-hero/service-worker.js",
+    "static/css/main.f1e13be0.chunk.css.map": "/be-the-hero/static/css/main.f1e13be0.chunk.css.map",
+    "static/js/2.c4c075dc.chunk.js.LICENSE.txt": "/be-the-hero/static/js/2.c4c075dc.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/be-the-hero/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/be-the-hero/static/media/logo.7eea718b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f1f19a3.js",
+    "static/js/runtime-main.f5e4c981.js",
     "static/js/2.c4c075dc.chunk.js",
     "static/css/main.f1e13be0.chunk.css",
-    "static/js/main.2c9c348d.chunk.js"
+    "static/js/main.641b7074.chunk.js"
   ]
 }
