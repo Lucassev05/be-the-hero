@@ -6,7 +6,7 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 Desenvolvido na Semana Oministack 11, realizado pela Rocketseat. 
-Criamos uma aplicação que tem por objetivo facilitar a interação entre ONG's e pessoas que tem interesse em ajudar com doaçoes.
+Criamos uma aplicação que tem por objetivo facilitar a interação entre ONG's e pessoas que tem interesse em ajudar com doações.
 Nessa aplicação, atráves do website é possível cadastrar ONG's e registrar um novo caso. Já no aplicativo, as pessoas interessadas em doar algum valor
 podem visualizar todos os casos registrados e entrar em contato com a ONG para realizar o primeiro contato e efetuar a doação que deseja. 
 
