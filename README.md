@@ -33,33 +33,31 @@ $ git clone git@github.com:Lucassev05/be-the-hero.git
 
 ### Configuração
 
-> Instale os packges de cada 
+> Instale os pacotes nas pastas backend, frontend e mobile utilizando
 
 ```shell
 $ npm install
 ```
 
 ### Execução
-> Execute o código do backend que se encontra dentro da pasta backend
+> Execute o código nas pastas backend, frontend e mobile utilizando
 
 ```shell
 $ npm start
 ```
+> Instale o Expo em seu Smartphone
 
-> Execute o código do front-end que se encontra dentro da pasta frontend
+> Escaneie o QR Code, gerado ao executar o código mobile, com seu celular
 
-```shell
-$ npm start
-```
-
-> Execute o código do aplicativo que se encontra dentro da pasta mobile
-
-```shell
-$ npm start
-```
 
 ## Tecnologias Utilizadas
 - <a href="https://nodejs.org/" target="_blank">Node.js</a>
+- <a href="https://expo.io/" target="_blank">Expo</a>
+- <a href="https://expressjs.com/" target="_blank">Express</a>
+- <a href="https://github.com/axios/axios" target="_blank">Axios</a>
+- <a href="http://knexjs.org/" target="_blank">knex</a>
+- <a href="https://www.sqlite.org/" target="_blank">Sqlite3</a>
+
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
