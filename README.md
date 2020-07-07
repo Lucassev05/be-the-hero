@@ -46,6 +46,9 @@ $ npm install
 $ npm start
 ```
 > Instale o Expo em seu Smartphone
+- <a href="https://play.google.com/store/apps/details?id=host.exp.exponent" target="_blank">Aplicativo Android</a>
+- <a href="https://apps.apple.com/br/app/expo-client/id982107779" target="_blank">Aplicativo iOS</a>
+
 
 > Escaneie o QR Code, gerado ao executar o código mobile, com seu celular
 
