@@ -53,7 +53,7 @@ $ npm start
 - <a href="https://apps.apple.com/br/app/expo-client/id982107779" target="_blank">Aplicativo iOS</a>
 
 
-> Escaneie o QR Code, gerado ao executar o código mobile, com seu celular
+> Escaneie com seu smartphone o QR Code gerado ao executar o código mobile
 
 
 ## Tecnologias Utilizadas
