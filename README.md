@@ -10,6 +10,9 @@ Criamos uma aplicação que tem por objetivo facilitar a interação entre ONG's
 Nessa aplicação, atráves do website é possível cadastrar ONG's e registrar um novo caso. Já no aplicativo, as pessoas interessadas em doar algum valor
 podem visualizar todos os casos registrados e entrar em contato com a ONG para realizar o primeiro contato e efetuar a doação que deseja. 
 
+
+![Be_The_Hero_Image](/gifGit.gif)
+
 ![](../header.png)
 
 ## Instalação
